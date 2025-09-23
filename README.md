@@ -67,13 +67,11 @@ MBZUAI/LaMini-GPT: https://huggingface.co/MBZUAI/LaMini-GPT-774M
 ## Contributors
 Muhammad Hanif Hibatullah (13220051) – Full model implementation (crop & disease classification, transformers)
 
-Yansen Dwiputra (13220056)
+Yansen Dwiputra (13220056) - Comparison for transfer learning results
 
-Teddy Hidayat (33223002)
+Teddy Hidayat (33223002) - Data collection and image preprocessing
 
-Nopi Ramsari (33223003)
+Nopi Ramsari (33223003) - Data collection and image preprocessing
 
-A. Sumarudin (33222033)
-Copy code
-
+A. Sumarudin (33222033) - Adding transformers for full model explanation
 ---
