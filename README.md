@@ -37,18 +37,6 @@ Upload the notebook of interest (e.g., Full Model.ipynb) to Google Colab.
 
 Mount your dataset (PlantVillage, PlantDoc, or custom dataset).
 
-Run cells step by step:
-
-Preprocessing (segmentation, augmentation)
-
-Training (transfer learning with EfficientNet/ResNet50)
-
-Evaluation (accuracy, validation results, comparison)
-
-Inference (predicting new leaf images)
-
-(Optional) Transformer explanations
-
 ## Example Workflow
 Crop Classification – Identify plant species (Tomato, Potato, Plumeria)
 
