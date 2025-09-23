@@ -38,15 +38,15 @@ Upload the notebook of interest (e.g., Full Model.ipynb) to Google Colab.
 Mount your dataset (PlantVillage, PlantDoc, or custom dataset).
 
 ## Example Workflow
-Crop Classification – Identify plant species (Tomato, Potato, Plumeria)
+1. Crop Classification – Identify plant species (Tomato, Potato, Plumeria)
 
-Disease Classification – Detect specific diseases in leaves
+2. Disease Classification – Detect specific diseases in leaves
 
-Evaluation – Compare performance across different pretrained models
+3. Evaluation – Compare performance across different pretrained models
 
-Inference – Run detection on new leaf images
+4. Inference – Run detection on new leaf images
 
-Explanation – Use transformers to generate human-readable descriptions of detected diseases
+5. Explanation – Use transformers to generate human-readable descriptions of detected diseases
 
 Results (Highlights)
 Crop classification trained with EfficientNet achieved strong performance on PlantVillage dataset.
