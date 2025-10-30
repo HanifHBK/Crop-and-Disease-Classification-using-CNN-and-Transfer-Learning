@@ -73,5 +73,5 @@ Teddy Hidayat (33223002) - Data collection and image preprocessing
 
 Nopi Ramsari (33223003) - Data collection and image preprocessing
 
-A. Sumarudin (33222033) - Adding transformers for full model explanation
+A Sumarudin (33222033) - Adding transformers for full model explanation
 ---
